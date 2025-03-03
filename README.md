@@ -48,5 +48,5 @@ Software Developer with a passion for building web applications and maintaining 
 
 ## 📫 Let's Connect!
 
-*   [LinkedIn](Your LinkedIn profile URL here)
-*   [Email](Your email address here)
+*   [LinkedIn]([Your LinkedIn profile URL here](https://www.linkedin.com/in/quang-vinh-903523220/))
+*   [Email](dangquangvinh.work@gmail.com)
