@@ -4,12 +4,12 @@ Software Developer with a passion for building web applications and maintaining 
 
 ## 💼 Experience
 
-*   **Software Developer** | EdgeWorks Software & GoliveDev | October 2024 - January 2025
+*   **Software Developer** | EdgeWorks Software & Philo Company| October 2024 - January 2025
     *   Developed an automation application using Selenium Python and Kivy framework to streamline tasks.
     *   Converted Figma designs into dynamic, responsive WordPress web interfaces for clients, enhancing their online presence.
     *   Developed an internal platform for a global metals industry leader using React, Flask, and PostgreSQL. Facilitated effective communication in English with clients to gather requirements.
 
-*   **Front-end Developer** | Philo Company | October 2024 - January 2025
+*   **Front-end Developer** | GoliveDev  | October 2024 - January 2025
     *   Utilized Vue.js, Nuxt.js, and Tailwind CSS to create interactive and responsive web interfaces from Figma designs.
     *   Led a team of 5 developers using Scrum Agile methodology to ensure iterative development and collaboration.
 
